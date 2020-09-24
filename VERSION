@@ -1,0 +1,15 @@
+commit 70e15d6de7e70fa59315574ab0173edfb183bd62
+Author: Emmett Lalish <elalish@google.com>
+Date:   Thu Sep 24 16:38:48 2020 -0700
+
+    Improve lighthouse example prompt (#1564)
+    
+    * updated lighthouse2
+    
+    * made pre-prompt
+    
+    * updated second page
+    
+    * forgot svg
+    
+    * addressing feedback
